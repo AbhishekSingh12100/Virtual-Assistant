@@ -10,7 +10,7 @@ import userRouter from "./routes/user.routes.js";
 const app = express();
 
 app.use(cors({
-    origin: "https://virtual-assistant-w8gt.onrender.com",
+    origin: "https://virtual-assistant-1-f7lj.onrender.com",
     credentials: true
 }));
 
